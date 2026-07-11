@@ -1,15 +1,57 @@
+```md
 # 💫 About Me:
-Hi there 👋, I'm Shreyash Chandratre<br><br>🚀 Passionate Computer Science & Design student with a strong interest in Full-Stack Development, AI/ML, and Mobile App Development. I enjoy building impactful products that combine modern web technologies with artificial intelligence to solve real-world problems.
 
+Hi there 👋, I'm **Shreyash Chandratre**
+
+🚀 Passionate **Computer Science & Design** student with a strong interest in **Full-Stack Development, AI/ML, and Mobile App Development**. I enjoy building impactful products that combine modern web technologies with artificial intelligence to solve real-world problems.
+
+## 💻 What I Do
+
+- 🌐 Build scalable full-stack applications using **React, FastAPI, Node.js, Firebase, and Flutter**
+- 🤖 Develop AI-powered solutions with **Machine Learning, NLP, RAG, LLMs, LangChain, and SHAP**
+- 📱 Create cross-platform mobile applications using **Flutter**
+- ☁️ Explore cloud technologies and modern development workflows
+
+## 🚀 Featured Projects
+
+- 📚 **StudyFlow** – AI-powered study assistant that converts documents into quizzes, flashcards, and summaries using LLMs.
+- 📊 **DriftInsights** – Real-time AI dashboard for concept drift detection with SHAP explainability and automated model adaptation.
+- 📰 **TruthLens** – Fake news detection system using NLP and Machine Learning with over **90% accuracy**.
+
+## 🛠️ Tech Stack
+
+**Languages:** C, C++, Java, Python, JavaScript
+
+**Frontend:** React, Flutter, HTML, CSS, Tailwind CSS
+
+**Backend:** FastAPI, Node.js, Firebase, REST APIs
+
+**Databases:** MySQL, SQLite, Firestore
+
+**AI/ML:** Machine Learning, NLP, RAG, LLM Integration, LangChain, Hugging Face, SHAP
+
+**Tools:** Git, GitHub, Postman, Android Studio, AWS, Vite
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on innovative projects, contribute to open source, and learn from the developer community.
+
+⭐ *"Building software that makes a difference, one commit at a time."*
+
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_chandratre_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-chandratre-29a45b278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashchandratre00@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://shreyasrc.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-chandratre-29a45b278)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_chandratre_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashchandratre09@gmail.com)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shreyashchandratre&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shreyashchandratre&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyashchandratre&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.shion.dev/api?username=shreyashchandratre&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=shreyashchandratre&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyashchandratre&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+```
